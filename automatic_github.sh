@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Replace with your own username and access token
-GITHUB_USERNAME="HaydenGuy"
-ACCESS_TOKEN="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"
+GITHUB_USERNAME="PLACEHOLDER"
+ACCESS_TOKEN="PLACEHOLDER"
 
 # Sets argument 1 as target directory if none given it sets to current directory
 target_dir=${1:-.}
